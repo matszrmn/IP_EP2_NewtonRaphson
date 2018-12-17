@@ -1,1 +1,1 @@
-No diretório "Testes" execute o comando __java TestaJuros__.
+No diretório "Testes" execute o comando __java TestaJuros__
